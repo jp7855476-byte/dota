@@ -1,0 +1,2 @@
+-- DotaAI V0.1.
+-- Item purchasing is kept in dotaai/hero_juggernaut.lua.

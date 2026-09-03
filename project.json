@@ -1,0 +1,7 @@
+{
+  "name": "DotaAI",
+  "version": "0.1.0",
+  "runtime": "Dota 2 bot Lua API",
+  "hero": "Juggernaut",
+  "python_role": "offline policy/training preparation"
+}

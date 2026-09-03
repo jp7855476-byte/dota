@@ -1,0 +1,2 @@
+-- DotaAI V0.1.
+-- Hero ability decisions are kept in dotaai/hero_juggernaut.lua.
